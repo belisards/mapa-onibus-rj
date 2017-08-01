@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Adriano Belisário",
+    "file": "images/logo.png",
+    "link": "http://www.apublica.org"
+  },
+  "text": {
+    "title": "Quem são os donos dos ônibus no Rio de Janeiro",
+    "more": "As relações entre pessoas e empresas descrita toma como base o quadro societário das empresas, segundo a Receita Federal\n",
+    "intro": "Mapeamento dos empresários de ônibus do Rio de Janeiro\nConcepção e execução: Adriano Belisário\nChecagem: Mariah Queiroz e Luísa Lucciola"
+  },
+  "legend": {
+    "edgeLabel": "Relações de Propriedade",
+    "colorLabel": "Marrom: empresas de ônibus; Verde: Pessoas Físicas: Rosa: Outras empresas",
+    "nodeLabel": "Pessoas e empresas"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Tipo",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": true
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 15,
+      "maxEdgeSize": 0.7,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}
