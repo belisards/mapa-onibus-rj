@@ -1,4 +1,4 @@
-# .: Mapa dos Donos do Ônibus no Rio de Janeiro :. |-
+# .: Mapa dos Donos do Ônibus no Rio de Janeiro :. -
 
 Mapeamento da rede de relações entre sócios das empresas de ônibus que operam linhas públicas no Rio de Janeiro. O levantamento foi feito a partir de dados da Receita Federal.
 
@@ -21,6 +21,6 @@ O gráfico é gerado por meio do Gephi, através da extensão SigmaJS.
 
 ### Quem?
 
-O mapeamento foi concebido e desenvolvido por Adriano Belisário. A checagem das informações foi feita por Mariah Queiroz e Luísa Lucciola. E o script de raspagem dos dados foi desenvolvido por Rafael Polo.
+Este mapeamento foi concebido e desenvolvido por Adriano Belisário, a partir de experiência anterior desenvolvida no [Hackday Rio] em 2013 (https://www.nytimes.com/video/world/americas/100000002293066/brazilian-students-dig-for-corruption.html). A checagem das informações foi feita por Mariah Queiroz e Luísa Lucciola. E o script de raspagem dos dados utilizado para complementar informações básicas das empresas foi desenvolvido por [Rafael Polo](https://github.com/rafapolo).
 
-Esta investigação foi feita para o especial da [Agência Pública](http://apublica.org/) sobre o transporte público via ônibus no Rio de Janeiro.
+Esta investigação foi feita para o #EspecialCatraca, série de reportagens multimídia desenvolvida pela [Agência Pública](http://apublica.org/) sobre o transporte público via ônibus no Rio de Janeiro. A pesquisa foi realizada ao longo do primeiro semestre de 2017 e publicada em agosto.
